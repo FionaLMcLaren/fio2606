@@ -16,7 +16,7 @@ I find that pair programming is the best way for me to solve any engineering-rel
 
 ---
 
-​​## Conditions I like to work in
+## Conditions I like to work in
 
 **Seeing over Hearing**
 When it comes to coding issues, I would rather see the actual code so I get some insight on the environment and also how the code is being laid out. I find having code explained to me without it being on screen quite difficult to visualise and therefore I can struggle more to find what could be going wrong.
