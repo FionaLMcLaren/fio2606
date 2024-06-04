@@ -49,7 +49,8 @@ I am someone who would rather have more in my agenda than run the risk of runnin
 
 ---
 
-​​## Topics I’m always happy to talk about 🎊
+
+## Things I am always happy to talk about 🎊
 
 **Pets!**
 I love hearing about other people’s critters and talking about my own little dog, Shellie! I find their quirks and personality so endearing and it really brightens my day hearing what someone’s pet has been up to!
