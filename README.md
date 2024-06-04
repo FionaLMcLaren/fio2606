@@ -3,7 +3,7 @@ Hi! I'm Fiona. I use pronouns she/her. Here is a user manual for working with me
 
 ---
 
-## The best ways to get in touch with me
+## The best ways to get in touch with me 💬
 
 **Ping Slack's /#support-engineering chat**
 I am interning in the support engineering team and I am sure that my team members will have some good insight on what I’m working on and be able to give you some answers about my project or what I’m doing
@@ -16,7 +16,7 @@ I find that pair programming is the best way for me to solve any engineering-rel
 
 ---
 
-## Conditions I like to work in
+## Conditions I like to work in ⚙️
 
 **Seeing over Hearing**
 When it comes to coding issues, I would rather see the actual code so I get some insight on the environment and also how the code is being laid out. I find having code explained to me without it being on screen quite difficult to visualise and therefore I can struggle more to find what could be going wrong.
@@ -29,7 +29,7 @@ I think I like putting my ideas out there with others so I can know if they are 
 ---
 
 
-## How I like to give/receive feedback
+## How I like to give/receive feedback 📨
 
 **Frequent Feedback**
 Having more feedback than less works good for me as it means I know if I am following the path I set out before correctly and also affirms to me that the work I am doing is meaningful!
@@ -39,7 +39,7 @@ If I have done something that has made a meaningful impact, such as streamlining
 
 ---
 
-## Things I need
+## Things I need ❤️‍🩹
 
 **A Listening Ear**
 I am the type of person who will quickfire questions so having someone there that can point me in the right direction really helps. Even if you do not know the answer to what I am asking, acknowledgement is also nice too as I sometimes can feel like I can be pestering people with all the help I might need! 
@@ -49,7 +49,7 @@ I am someone who would rather have more in my agenda than run the risk of runnin
 
 ---
 
-​​## Topics I’m always happy to talk about
+​​## Topics I’m always happy to talk about 🎊
 
 **Pets!**
 I love hearing about other people’s critters and talking about my own little dog, Shellie! I find their quirks and personality so endearing and it really brightens my day hearing what someone’s pet has been up to!
